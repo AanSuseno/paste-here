@@ -57,7 +57,7 @@ class Paste extends ResourceController
 
         return $this->respondCreated($response, 201);
     }
-
+// c!MQn+Lb6C/FFg\?
     public function show($kode = null)
     {
         $sekarang = date('Y-m-d H:i:s');
